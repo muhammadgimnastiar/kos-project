@@ -2,7 +2,7 @@
 
 Cari kos landing page template built with Next.js, TailwindCSS, and all shadcn/ui components, organized using a improved version of Atomic Design System.
 
-<a href="https://atomic-shad.vercel.app/"><strong>Preview - https://atomic-shad.vercel.app/</strong></a> ·
+<a href=""><strong>Preview - https://atomic-shad.vercel.app/</strong></a> ·
 <a href="#features"><strong>Features</strong></a> ·
 <a href="#setup"><strong>Setup</strong></a> ·
 <a href="#authors"><strong>Authors</strong></a>

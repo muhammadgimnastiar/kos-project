@@ -6,7 +6,7 @@ import React from "react";
 
 type Props = {};
 
-const page = (props: Props) => {
+const Page = (props: Props) => {
   const params = useParams<{ idKos: string }>;
   const { idKos } = params();
   const room = KostData[Number(idKos)];
@@ -119,4 +119,4 @@ const page = (props: Props) => {
   );
 };
 
-export default page;
+export default Page;
